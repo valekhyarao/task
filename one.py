@@ -1,0 +1,3 @@
+# task
+python
+print "hello";
